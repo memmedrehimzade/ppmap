@@ -109,7 +109,7 @@ func main() {
    dMP.dMP dMP.dMP dMP"dMP"dMP dMP"dMP dMP.dMP 
   dMMMMP" dMMMMP" dMP dMP dMP dMMMMMP dMMMMP"  
  dMP     dMP     dMP dMP dMP dMP dMP dMP           
-dMP     dMP     dMP dMP dMP dMP dMP dMP            @kleiton0x7e
+dMP     dMP     dMP dMP dMP dMP dMP dMP            @Memmed_Rehimzade
 
                                      
 `)
@@ -139,7 +139,7 @@ func queryEnum(u string, quote string) {
         "constructor%5Bprototype%5D%5Bppmap%5D=reserved",
         "__proto__.ppmap=reserved",
         "constructor.prototype.ppmap=reserved",
-        "__proto__%5Bppmap%5D=reserved",
+        "__proto__%5Bppmap%5D=reserved"
     }
         
     for index, payload := range payloads {
