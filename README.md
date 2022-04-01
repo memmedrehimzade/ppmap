@@ -15,7 +15,7 @@ go get -u github.com/chromedp/chromedp
 ## Installation
 - Run the following command to clone the repo: 
  ```bash
-git clone https://github.com/kleiton0x00/ppmap.git
+git clone https://github.com/memmedrehimzade/ppmap
  ```
  - Change the directory to ppmap and execute **setup.sh**:  
 ```bash
